@@ -44,7 +44,7 @@ export default {
   data () {
     return {
         activeName: 'first',
-        formData:{}
+        formData: {}
     }
   },
   methods: {
